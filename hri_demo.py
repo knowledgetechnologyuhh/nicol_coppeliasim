@@ -13,7 +13,7 @@ if start_coppelia:
     from nicol_base import NicolJointPosition, NicolPose
     from nicol_cycleik import NicolCycleIK
     try:
-        from dependencies.nicol_talker.nicol_speech import NICOL_TALKER
+        from dependencies.nicol_tts.nicol_speech import NICOL_TALKER
 
         class Participant:
             def __init__(self, speaker):

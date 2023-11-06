@@ -43,8 +43,9 @@ class NicolHead:
 
         self.talker = talker
         if talker:
-            from dependencies.nicol_talker.nicol_speech import NICOL_TALKER
-            self.__talker = NICOL_TALKER(model_path='dependencies/nicol_talker/tts_models--en--vctk--vits/model_file.pth', config_path='dependencies/nicol_talker/tts_models--en--vctk--vits/config.json')
+            from dependencies.nicol_tts.nicol_speech import NICOL_TALKER
+            self.__talker = NICOL_TALKER(model_path='dependencies/nicol_tts/tts_models--en--vctk--vits/model_file.pth',
+                                         config_path='dependencies/nicol_tts/tts_models--en--vctk--vits/config.json')
         
         #self.cycleik = CycleIK(robot="nicol", chain="right_arm", cuda_device='0', verbose=True)
         urdf_path = "./resources/NICOL.urdf"
