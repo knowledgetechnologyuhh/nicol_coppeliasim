@@ -77,7 +77,7 @@ https://www.coppeliarobotics.com/helpFiles/en/apiFunctions.htm#objectParameters
 
 
 <div align="center">
-![Knowledge Technology Logo](https://www.inf.uni-hamburg.de/26013038/wtm-logo-white-b5929635e66483567df041e578f21cf47d574c35.jpg){width=15%}
+<img src="https://www.inf.uni-hamburg.de/26013038/wtm-logo-white-b5929635e66483567df041e578f21cf47d574c35.jpg" width="15%">
 
 Knowledge Technology, MIN-Faculty, University of Hamburg 
 
