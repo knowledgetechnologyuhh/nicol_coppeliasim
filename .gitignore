@@ -1,0 +1,17 @@
+stuff
+dependencies
+dependecies
+tts_models--en--vctk--vits
+__pycache__
+*.wav
+gaikpy.log
+activate
+NICOL-env
+.vscode
+test_2.py
+env
+
+CoppeliaSim_Edu_V4_5_1_rev4_Ubuntu20_04.tar.xz
+CoppeliaSim_Edu_V4_5_1_rev4_Ubuntu20_04
+coppelia_env/
+NICOL-env/
