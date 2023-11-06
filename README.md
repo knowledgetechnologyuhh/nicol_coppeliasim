@@ -37,7 +37,7 @@ export QT_QPA_PLATFORM_PLUGIN_PATH=$COPPELIASIM_ROOT
 The easiest way to install is via the setup.sh script.
 
 ```bash
-git clone [https://github.com/knowledgetechnologyuhh/nicol_coppeliasim.git](https://github.com/knowledgetechnologyuhh/nicol_coppeliasim.git)
+git clone https://github.com/knowledgetechnologyuhh/nicol_coppeliasim.git
 cd nicol_coppeliasim
 source setup.sh
 ```
